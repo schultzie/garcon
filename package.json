@@ -1,13 +1,13 @@
 {
-  "name": "techno-boto-slack",
-  "version": "0.0.0",
-  "description": "A helpful Slack bot",
+  "name": "garcon",
+  "version": "1.0",
+  "description": "Slack bot to give kb docs to users asking help questions.",
   "main": "src",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node ."
   },
-  "author": "Techno Tim",
+  "author": "Greg Schultz",
   "license": "ISC",
   "dependencies": {
     "@slack/rtm-api": "^5.0.5",
