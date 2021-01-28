@@ -1,39 +1,21 @@
-# techno-boto-slack
+## Garcon
 
-A simple bot that can be added to your own Slack server.
+This is a Slack bot that is written in Javascript to listen for keywords in a Slack channel and to output a knowledge base article.
 
-For instructions, please see [https://www.youtube.com/watch?v=AajBk59nOgw](https://www.youtube.com/watch?v=AajBk59nOgw)
+This was my first app in Javascript. 
 
+I used Tim Stewart's Techno Boto as a kicking off point to build the app. 
 
-## Info
-Slack API - Create a classic app https://api.slack.com/apps?new_classic_app=1
-
-Slack Node SDK https://slack.dev/node-slack-sdk/
-
-Don't forget to ⭐ this repo and fork it too! 👆
+Assembled by Greg Schultz
 
 ## Getting started
 
-If you need help setting up your machine for JavaScript development, see https://www.youtube.com/watch?v=kL8iGErULiw
+Goto coins.js and place your oauth token for your slack app in the SLACK_OAUTH_TOKEN const string. 
 
-Replace `SLACK_OAUTH_TOKEN` with your token
+The bot will reply to messages that you key on in any channel it is invited to. 
 
-Replace `BOT_SPAM_CHANNEL` with your channel where you want bot spam messages to go
+Please use this however you would like. I hope this helps a few people. :) 
 
+## Thanks
 
-## Credits
-Created by Techno Tim with 💛
-
-🔔 Social Media 🔔
-
-► Twitch https://www.twitch.tv/TechnoTim
-
-► Twitter  https://twitter.com/TechnoTimLive
-
-► Discord https://discord.gg/DJKexrJ
-
-► Instagram https://www.instagram.com/techno.tim/
-
-► Facebook https://www.facebook.com/TechnoTimLive/
-
-► GitHub https://github.com/timothystewart6
+Thank you to Tim Stewart, stackoverflow users, github users, youtube people, and irc folks for any and all help provided. 
