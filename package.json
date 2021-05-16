@@ -1,6 +1,6 @@
 {
   "name": "garcon",
-  "version": "1.0",
+  "version": "1.1",
   "description": "Slack bot to give kb docs to users asking help questions.",
   "main": "src",
   "scripts": {
